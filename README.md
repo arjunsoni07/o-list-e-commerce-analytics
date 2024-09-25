@@ -14,3 +14,6 @@ Validate and clean the data to improve accuracy and usability.
 Analyze the data to address the problem statement and KPIs.
 Offer recommendations to Olist company.
 
+# Objective
+![Objectives](https://github.com/user-attachments/assets/76a8108f-0947-4ebe-b07a-c06a149558a7)
+

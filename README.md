@@ -33,4 +33,9 @@ The Olist dataset comprises nine separate datasets, all of which are stored in C
 
 ![daatabase schema](https://github.com/user-attachments/assets/9d70f998-4165-4c03-9eae-2ca5320e49dd)
 
+# Data Exploration and Cleaning
+As I examined the 9 worksheets, I discovered they contained issues such as
+inconsistencies, missing values, duplicates, Null Values, Empty Colums, Spelling Mistakes and other issues that could potentially impact the analysis and Difficult to form a relationship between the tables.
+
+The cleaning process involved handling missing values by imputing or removing them, standardizing formats, correcting inconsistencies, removing duplicates, and addressing any other data quality issues. As a result, the cleaned table provides a solid foundation for conducting meaningful analysis and extracting valuable insights from the dataset.
 

@@ -21,9 +21,13 @@ Offer recommendations to Olist company.
 # Tools and Technologies
 
 SQL: For querying the database to extract and manipulate data.
+
 Excel: For creating pivot charts and analyzing data from SQL queries.
+
 Power BI: For building interactive dashboards to visualize the data.
+
 Tableau: For building dashboard and data driven decisions.
+
 Mathematical Statistics: For Predictive analytics which is used to analyze historical data and predict future outcomes. This helps businesses forecast trends and identify risks and opportunities. 
 
 # Dataset and Data Modelling

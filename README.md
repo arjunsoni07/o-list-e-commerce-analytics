@@ -101,3 +101,16 @@ Discover the correlation between review scores and shipping times. Understand th
 ![KPI-5](https://github.com/user-attachments/assets/c0419c9f-1b72-41f5-92f2-734ea027ae2f)
 
 # PowerBI Dashboard
+
+![powerbi dashboard](https://github.com/user-attachments/assets/169572f7-6c34-4998-abb3-91ead3425152)
+
+# Excel Dashboard
+
+![ms excel dashboard](https://github.com/user-attachments/assets/e563a1fe-ec3d-4445-be79-e0706883c9d5)
+
+# Tableau Dashboard
+
+![tableau dashboard](https://github.com/user-attachments/assets/f2850cef-8c40-4e53-a039-4cd4fde1961e)
+
+
+

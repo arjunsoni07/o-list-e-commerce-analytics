@@ -99,3 +99,5 @@ KPI-5 Review Score and Shipping Days Relationship:
 Discover the correlation between review scores and shipping times. Understand the impact of timely deliveries on customer satisfaction levels and online reviews. Identify areas where improvements can be made to ensure faster shipping without compromising quality.
 
 ![KPI-5](https://github.com/user-attachments/assets/c0419c9f-1b72-41f5-92f2-734ea027ae2f)
+
+# PowerBI Dashboard

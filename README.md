@@ -18,6 +18,14 @@ Offer recommendations to Olist company.
 
 ![Objectives](https://github.com/user-attachments/assets/76a8108f-0947-4ebe-b07a-c06a149558a7)
 
+# Tools and Technologies
+
+SQL: For querying the database to extract and manipulate data.
+Excel: For creating pivot charts and analyzing data from SQL queries.
+Power BI: For building interactive dashboards to visualize the data.
+Tableau: For building dashboard and data driven decisions.
+Mathematical Statistics: For Predictive analytics which is used to analyze historical data and predict future outcomes. This helps businesses forecast trends and identify risks and opportunities. 
+
 # Dataset and Data Modelling
 The Olist dataset comprises nine separate datasets, all of which are stored in CSV format:
 

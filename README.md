@@ -112,6 +112,42 @@ Discover the correlation between review scores and shipping times. Understand th
 
 ![tableau dashboard](https://github.com/user-attachments/assets/f2850cef-8c40-4e53-a039-4cd4fde1961e)
 
+# Key Insights
+1.Order Behavior:
+Weekdays vs. Weekends: Analysis reveals that weekdays see higher order volumes, with a peak on Monday and a gradual decline towards midweek. This trend indicates that customers are more active during weekdays, suggesting an opportunity for targeted promotions.
+
+2.Payment Preferences:
+Dominance of Credit Cards: Credit cards are the preferred payment method, especially for 5-star reviews, followed by boleto. This highlights the importance of secure and convenient payment options in driving customer satisfaction.
+
+3.Delivery Times:
+Category Variations: Office furniture has the longest delivery time, while arts and craftsmanship have the shortest. On average, deliveries take 12 days, with pet shop products averaging 11 days. Streamlining delivery processes for categories with longer times could enhance overall efficiency.
+
+4.Geographical Insights:
+City-wise Trends: Sao Paulo and Rio de Janeiro record the highest order counts. In Sao Paulo, the average payment surpasses the average price, likely due to high order density. Tailored marketing strategies for these regions could further boost sales.
+
+5.Shipping Duration and Reviews:
+Negative Correlation: A clear negative correlation exists between shipping duration and review scores. Faster shipping times are associated with higher review scores, emphasizing the need for efficient logistics.
+
+# Strategic Recommendations
+
+1.Targeted Weekday Promotions:
+Capitalize on higher weekday order volumes by launching specific promotions and offers to boost sales during these peak periods.
+
+2.Enhance Payment Security:
+Prioritize measures to further secure credit card transactions, maintaining customer trust and encouraging repeat business.
+
+3.Streamline Delivery Processes:
+Optimize logistics operations by improving route planning and inventory management, particularly for categories with longer delivery times.
+
+4.Localized Marketing Strategies:
+Develop region-specific marketing campaigns for high-order cities like Sao Paulo and Rio de Janeiro, leveraging local insights to connect with customers more effectively.
+
+5.Improve Shipping Efficiency:
+Address bottlenecks in the shipping process by enhancing warehouse workflows and forming strategic carrier partnerships to reduce delivery times.
+
+6.Diversify Payment Options:
+Expand payment options to include alternatives like debit cards and promote the use of boleto, catering to diverse customer preferences and expanding market reach.
+
 # Conclusion
 
 Olist's exploratory data analysis provides valuable insights into customer behavior, payment preferences, and operational efficiencies. By leveraging these findings, Olist can implement targeted strategies to enhance customer satisfaction, streamline operations, and drive growth. As e-commerce continues to evolve, data-driven decision-making will remain a cornerstone of success in the competitive digital marketplace.

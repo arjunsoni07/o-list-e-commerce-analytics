@@ -61,11 +61,30 @@ Discover how Olist Store's performance varies between weekends and weekdays. Unc
 
 ![Kpi-1 ](https://github.com/user-attachments/assets/43ded4b9-3584-493f-b14d-5123d35fdcd3)
 
-![KPI-2](https://github.com/user-attachments/assets/fe134203-d5c6-
+
+KPI-2 Review Score and Payment Type Analysis:
+
+Delve into the correlation 
+between review scores and payment types. Gain insights into customer satisfaction levels based on the payment methods they choose. Identify any possible trends or preferences that could impact payment strategy or customer service.
+
+![KPI-2](https://github.com/user-attachments/assets/a7667669-86b0-402a-8e36-2ff522911b6c)
+
+ 
+KPI-3 Products and Shipping Days Analysis:
+
+Explore the relationship between products and shipping days. Understand how different product categories impact delivery times and customer satisfaction. Identify any discrepancies or bottlenecks in the supply chain and streamline operations accordingly
 
 ![KPI-3](https://github.com/user-attachments/assets/1f8e565c-b23c-451d-9a0d-66ef0092267c)
 48cc-8109-4c0fb347517c)
 
+KPI-4  Payment and Price Analysis:
+
+Examine the connection between payment behavior and pricing. Analyze the effect of pricing strategies on payment methods chosen by customers. Uncover opportunities to optimize pricing structures and tailor payment options for enhanced customer satisfaction.
+
 ![KPI-4](https://github.com/user-attachments/assets/14272fed-649a-44dd-983a-45c0b9b73651)
+
+KPI-5 Review Score and Shipping Days Relationship:
+
+Discover the correlation between review scores and shipping times. Understand the impact of timely deliveries on customer satisfaction levels and online reviews. Identify areas where improvements can be made to ensure faster shipping without compromising quality.
 
 ![KPI-5](https://github.com/user-attachments/assets/c0419c9f-1b72-41f5-92f2-734ea027ae2f)

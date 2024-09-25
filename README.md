@@ -18,3 +18,16 @@ Offer recommendations to Olist company.
 
 ![Objectives](https://github.com/user-attachments/assets/76a8108f-0947-4ebe-b07a-c06a149558a7)
 
+# Dataset and Data Modelling
+The Olist dataset comprises nine separate datasets, all of which are stored in CSV format:
+
+olist_order_items_dataset
+olist_orders_dataset
+olist_order_payments_dataset
+olist_order_reviews_dataset
+olist_products_dataset
+olist_customers_dataset
+olist_sellers_dataset
+olist_geolocation_dataset
+olist_category_dataset
+

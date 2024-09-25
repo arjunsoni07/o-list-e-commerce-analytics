@@ -39,3 +39,13 @@ inconsistencies, missing values, duplicates, Null Values, Empty Colums, Spelling
 
 The cleaning process involved handling missing values by imputing or removing them, standardizing formats, correcting inconsistencies, removing duplicates, and addressing any other data quality issues. As a result, the cleaned table provides a solid foundation for conducting meaningful analysis and extracting valuable insights from the dataset.
 
+a. Null and empty columns: To clean them, I replaced them with the correct data using excel “Find and replace” functions.
+
+b. Irrelevant columns: I validated them completely after taking all the necessary precautions.
+
+c. Duplicates: Erased every duplicate the help of the excel “Filter” function.
+
+d. Data types: They were converted using the “Format cells” menu in excel.
+
+e. Missing values: I used the mean and mode to fill all the necessary columns.
+

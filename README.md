@@ -75,7 +75,6 @@ KPI-3 Products and Shipping Days Analysis:
 Explore the relationship between products and shipping days. Understand how different product categories impact delivery times and customer satisfaction. Identify any discrepancies or bottlenecks in the supply chain and streamline operations accordingly
 
 ![KPI-3](https://github.com/user-attachments/assets/1f8e565c-b23c-451d-9a0d-66ef0092267c)
-48cc-8109-4c0fb347517c)
 
 KPI-4  Payment and Price Analysis:
 

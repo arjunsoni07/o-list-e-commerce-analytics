@@ -54,3 +54,13 @@ e. Missing values: I used the mean and mode to fill all the necessary columns.
 f. Spelling Errors: I replace them with correct data using "Find and Replace" function in excel.
 
 # SQL Queries, Insights and Solutions
+![Kpi-1 ](https://github.com/user-attachments/assets/43ded4b9-3584-493f-b14d-5123d35fdcd3)
+
+![KPI-2](https://github.com/user-attachments/assets/fe134203-d5c6-
+
+![KPI-3](https://github.com/user-attachments/assets/1f8e565c-b23c-451d-9a0d-66ef0092267c)
+48cc-8109-4c0fb347517c)
+
+![KPI-4](https://github.com/user-attachments/assets/14272fed-649a-44dd-983a-45c0b9b73651)
+
+![KPI-5](https://github.com/user-attachments/assets/c0419c9f-1b72-41f5-92f2-734ea027ae2f)

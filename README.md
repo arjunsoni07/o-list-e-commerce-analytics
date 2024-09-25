@@ -54,6 +54,11 @@ e. Missing values: I used the mean and mode to fill all the necessary columns.
 f. Spelling Errors: I replace them with correct data using "Find and Replace" function in excel.
 
 # SQL Queries, Insights and Solutions
+
+KPI-1 Weekend vs. Weekday Payment Statistics:
+
+Discover how Olist Store's performance varies between weekends and weekdays. Uncover trends, spot patterns, and identify opportunities for growth by analyzing sales, customer engagement, and website traffic during different days of the week.
+
 ![Kpi-1 ](https://github.com/user-attachments/assets/43ded4b9-3584-493f-b14d-5123d35fdcd3)
 
 ![KPI-2](https://github.com/user-attachments/assets/fe134203-d5c6-

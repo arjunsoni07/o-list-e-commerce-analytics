@@ -112,5 +112,8 @@ Discover the correlation between review scores and shipping times. Understand th
 
 ![tableau dashboard](https://github.com/user-attachments/assets/f2850cef-8c40-4e53-a039-4cd4fde1961e)
 
+# Conclusion
+
+Olist's exploratory data analysis provides valuable insights into customer behavior, payment preferences, and operational efficiencies. By leveraging these findings, Olist can implement targeted strategies to enhance customer satisfaction, streamline operations, and drive growth. As e-commerce continues to evolve, data-driven decision-making will remain a cornerstone of success in the competitive digital marketplace.
 
 

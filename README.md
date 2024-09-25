@@ -49,4 +49,4 @@ d. Data types: They were converted using the “Format cells” menu in excel.
 
 e. Missing values: I used the mean and mode to fill all the necessary columns.
 
-f.Spelling Errors: I replace them with correct data using "Find and Replace" function in excel.
+f. Spelling Errors: I replace them with correct data using "Find and Replace" function in excel.

@@ -33,6 +33,8 @@ The Olist dataset comprises nine separate datasets, all of which are stored in C
 
 ![daatabase schema](https://github.com/user-attachments/assets/9d70f998-4165-4c03-9eae-2ca5320e49dd)
 
+
+
 # Data Exploration and Cleaning
 As I examined the 9 worksheets, I discovered they contained issues such as
 inconsistencies, missing values, duplicates, Null Values, Empty Colums, Spelling Mistakes and other issues that could potentially impact the analysis and Difficult to form a relationship between the tables.
@@ -50,3 +52,5 @@ d. Data types: They were converted using the “Format cells” menu in excel.
 e. Missing values: I used the mean and mode to fill all the necessary columns.
 
 f. Spelling Errors: I replace them with correct data using "Find and Replace" function in excel.
+
+# SQL Queries, Insights and Solutions

@@ -20,28 +20,28 @@ Offer recommendations to Olist company.
 
 # Tools and Technologies
 
-SQL: For querying the database to extract and manipulate data.
+**SQL:** For querying the database to extract and manipulate data.
 
-Excel: For creating pivot charts and analyzing data from SQL queries.
+**Excel:** For creating pivot charts and analyzing data from SQL queries.
 
-Power BI: For building interactive dashboards to visualize the data.
+**Power BI:** For building interactive dashboards to visualize the data.
 
-Tableau: For building dashboard and data driven decisions.
+**Tableau:** For building dashboard and data driven decisions.
 
-Mathematical Statistics: For Predictive analytics which is used to analyze historical data and predict future outcomes. This helps businesses forecast trends and identify risks and opportunities. 
+**Mathematical Statistics:** For Predictive analytics which is used to analyze historical data and predict future outcomes. This helps businesses forecast trends and identify risks and opportunities. 
 
 # Dataset and Data Modelling
 The Olist dataset comprises nine separate datasets, all of which are stored in CSV format:
 
-1.olist_order_items_dataset
-2.olist_orders_dataset
-3.olist_order_payments_dataset
-4.olist_order_reviews_dataset
-5.olist_products_dataset
-6.olist_customers_dataset
-7.olist_sellers_dataset
-8.olist_geolocation_dataset
-9.olist_category_dataset
+- olist_order_items_dataset
+- olist_orders_dataset
+- olist_order_payments_dataset
+- olist_order_reviews_dataset
+- olist_products_dataset
+- olist_customers_dataset
+- olist_sellers_dataset
+- olist_geolocation_dataset
+- olist_category_dataset
 
 ![daatabase schema](https://github.com/user-attachments/assets/9d70f998-4165-4c03-9eae-2ca5320e49dd)
 
@@ -53,17 +53,17 @@ inconsistencies, missing values, duplicates, Null Values, Empty Colums, Spelling
 
 The cleaning process involved handling missing values by imputing or removing them, standardizing formats, correcting inconsistencies, removing duplicates, and addressing any other data quality issues. As a result, the cleaned table provides a solid foundation for conducting meaningful analysis and extracting valuable insights from the dataset.
 
-a. Null and empty columns: To clean them, I replaced them with the correct data using excel “Find and replace” functions.
+a. **Null and empty columns:** To clean them, I replaced them with the correct data using excel **“Find and replace”** functions.
 
-b. Irrelevant columns: I validated them completely after taking all the necessary precautions.
+b. **Irrelevant columns:** I validated them completely after taking all the necessary precautions.
 
-c. Duplicates: Erased every duplicate the help of the excel “Filter” function.
+c. **Duplicates:** Erased every duplicate the help of the excel **“Filter”** function.
 
-d. Data types: They were converted using the “Format cells” menu in excel.
+d. **Data types:** They were converted using the **“Format cells”** menu in excel.
 
-e. Missing values: I used the mean and mode to fill all the necessary columns.
+e. **Missing values:** I used the mean and mode to fill all the necessary columns.
 
-f. Spelling Errors: I replace them with correct data using "Find and Replace" function in excel.
+f. **Spelling Errors:** I replace them with correct data using **"Find and Replace"** function in excel.
 
 # SQL Queries, Insights and Solutions
 
